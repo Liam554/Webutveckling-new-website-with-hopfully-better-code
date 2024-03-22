@@ -1,0 +1,10 @@
+.navbar-container{
+    max-width: 100%;
+    max-height: 100px;
+    flex-direction: row;
+}
+.navbar-container img{
+    height: 100px;
+    width: 200px;
+    flex-direction: row;
+}
