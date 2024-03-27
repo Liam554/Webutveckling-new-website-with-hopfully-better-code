@@ -1,1 +1,3 @@
-document.getElementById("toggle")
+document.getElementById("toggle").addEventListener("click", function(){
+    
+})
