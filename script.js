@@ -1,5 +1,8 @@
-document.getElementById("toggle").addEventListener("click", function(){
-    console.log("funkar");
-    var faqTogla = document.getElementById("faq");
-    popup.classList.toggle("show");
-})
+function myFunction() {
+    var x = document.getElementById("myLinks");
+    if (x.style.display === "block") {
+      x.style.display = "none";
+    } else {
+      x.style.display = "block";
+    }
+  }
